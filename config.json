@@ -5,6 +5,10 @@
       "url": "https://easylist.to/easylist/easylist.txt"
     },
     {
+      "name": "anti-ad-easylist",
+      "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
+    },
+    {
       "name": "EasyList Cookie List",
       "url": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt"
     },
