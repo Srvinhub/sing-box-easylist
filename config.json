@@ -127,6 +127,14 @@
     {
       "name": "AdGuard DNS Filter",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+    },
+    {
+      "name": "AdGuard Chinese filter",
+      "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt"
+    },
+    {
+      "name": "AdGuard Mobile Ads filter",
+      "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt"
     }
   ]
 }
